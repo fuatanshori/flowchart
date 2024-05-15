@@ -1,14 +1,14 @@
-<mxfile host="Electron" modified="2024-05-15T11:08:10.429Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="0RPTJygYqT8XJHtxEi-E" version="24.2.5" type="device">
+<mxfile host="Electron" modified="2024-05-15T11:08:20.257Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="wBWcF_dZ0sbYg1GDhxE3" version="24.2.5" type="device">
   <diagram name="Page-1" id="Gu7j2BjniduVikbYh7by">
-    <mxGraphModel dx="682" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4aH8_TZyad5lJnQbj9__-43" value="ujian(admin-pemateri)" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180.00000000000045" y="190" width="390" height="620" as="geometry" />
+          <mxGeometry x="180.00000000000045" y="190" width="390" height="520" as="geometry" />
         </mxCell>
         <mxCell id="4aH8_TZyad5lJnQbj9__-44" value="frontend" style="swimlane;startSize=20;html=1;" vertex="1" parent="4aH8_TZyad5lJnQbj9__-43">
-          <mxGeometry y="20" width="200" height="600" as="geometry" />
+          <mxGeometry y="20" width="200" height="500" as="geometry" />
         </mxCell>
         <mxCell id="4aH8_TZyad5lJnQbj9__-45" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="4aH8_TZyad5lJnQbj9__-44">
           <mxGeometry x="73.75" y="50" width="37.5" height="30" as="geometry" />
@@ -37,7 +37,7 @@
           <mxGeometry x="50" y="360" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4aH8_TZyad5lJnQbj9__-54" value="backend" style="swimlane;startSize=20;html=1;" vertex="1" parent="4aH8_TZyad5lJnQbj9__-43">
-          <mxGeometry x="200" y="20" width="190" height="600" as="geometry" />
+          <mxGeometry x="200" y="20" width="190" height="500" as="geometry" />
         </mxCell>
         <mxCell id="4aH8_TZyad5lJnQbj9__-55" value="ambil data mapel" style="html=1;whiteSpace=wrap;" vertex="1" parent="4aH8_TZyad5lJnQbj9__-54">
           <mxGeometry x="45" y="110" width="85" height="30" as="geometry" />
